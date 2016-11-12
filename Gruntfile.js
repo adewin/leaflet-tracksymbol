@@ -25,8 +25,8 @@ module.exports = function (grunt) {
           },
           dist: {
             src: ['lib/tracksymbol.js'],
-            dest: 'leaflet-tracksymbol.js',
-          },
+            dest: 'leaflet-tracksymbol.js'
+          }
         },
 
         jshint: {
