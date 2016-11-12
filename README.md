@@ -4,7 +4,6 @@ leaflet-tracksymbol
 
 This is a symbol for leaflet-layers showing tracks with speed, course and heading.
 
-
 The visualization is chosen by zoomlevel or heading availability.
  * If zoomlevel is smaller than 'minSilouetteZoom' a triangular symbol is rendered.
  * If zoomlevel is greater than 'minSilouetteZoom' a ship silouette is rendered.
@@ -55,5 +54,7 @@ Example
 ![Example](https://raw.githubusercontent.com/lethexa/leaflet-tracksymbol/gh-pages/example.png)
 
 
-<a href="https://codeclimate.com/github/lethexa/leaflet-tracksymbol"><img src="https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg" /></a>
+[![Code Climate](https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg)](https://codeclimate.com/github/lethexa/leaflet-tracksymbol)
+[![Build Status](https://travis-ci.org/lethexa/leaflet-tracksymbol.svg?branch=master)](https://travis-ci.org/lethexa/leaflet-tracksymbol)
+
 
