@@ -1,3 +1,6 @@
+<a href="https://codeclimate.com/github/lethexa/leaflet-tracksymbol"><img src="https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/gpa.svg" /></a>
+
+
 leaflet-tracksymbol
 -------------------
 
