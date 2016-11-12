@@ -2,6 +2,9 @@
 leaflet-tracksymbol
 -------------------
 
+[![Code Climate](https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg)](https://codeclimate.com/github/lethexa/leaflet-tracksymbol)
+[![Build Status](https://travis-ci.org/lethexa/leaflet-tracksymbol.svg?branch=master)](https://travis-ci.org/lethexa/leaflet-tracksymbol)
+
 This is a symbol for leaflet-layers showing tracks with speed, course and heading.
 
 The visualization is chosen by zoomlevel or heading availability.
@@ -54,7 +57,5 @@ Example
 ![Example](https://raw.githubusercontent.com/lethexa/leaflet-tracksymbol/gh-pages/example.png)
 
 
-[![Code Climate](https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg)](https://codeclimate.com/github/lethexa/leaflet-tracksymbol)
-[![Build Status](https://travis-ci.org/lethexa/leaflet-tracksymbol.svg?branch=master)](https://travis-ci.org/lethexa/leaflet-tracksymbol)
 
 
