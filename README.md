@@ -1,8 +1,7 @@
 
 leaflet-tracksymbol
-
-<a href="https://codeclimate.com/github/lethexa/leaflet-tracksymbol"><img src="https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg" /></a>
 -------------------
+<a href="https://codeclimate.com/github/lethexa/leaflet-tracksymbol"><img src="https://codeclimate.com/github/lethexa/leaflet-tracksymbol/badges/issue_count.svg" /></a>
 
 This is a symbol for leaflet-layers showing tracks with speed, course and heading.
 
