@@ -26,6 +26,22 @@ The following options are available:
  * noHeadingSymbol: The diamond track symbol. Contains an array of n numbers. [x1,y1,x2,y2,...]
  * silouetteSymbol: The ship track symbol. Contains an array of n numbers. [x1,y1,x2,y2,...]
 
+Showcase
+--------
+
+The sourcecode contains an nodeJS application with a simple webserver showing the tracksymbol
+in action on a leaflet-map (leaflet 0.7 and 1.0).
+
+To start execute the following commands (in project-root) on the commandline:
+
+> npm install
+> bower install
+> grunt
+> npm start
+
+In your webbrowser go to 'http://localhost:8000'. On the webpage click on the version-link to
+start the example.
+
 
 Example
 -------
